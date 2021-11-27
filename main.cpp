@@ -3,7 +3,7 @@
 #include <sstream>
 #include <math.h>
 
-double getN()
+double getN() // only numbers input
 {
     double dub;
     std::string line;
