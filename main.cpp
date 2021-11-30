@@ -52,7 +52,7 @@ int main()
     res1 = res1 / a2; // final result 1
     res2 = res2 / a2; // final result 2
 
-    // checking if given have result
+    // checking if given equation have result
 
     if (isnan(res1) || isnan(res2))
     {
